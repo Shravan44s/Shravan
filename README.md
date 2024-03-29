@@ -1,3 +1,3 @@
 # Shravan_portfolio
 Personal Portfolio
-https://shravan44s.github.io/Shravan_portfolio/
+https://shravan44s.github.io/Shravan/
